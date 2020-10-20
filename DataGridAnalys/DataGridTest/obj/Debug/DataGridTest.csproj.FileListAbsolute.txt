@@ -1,0 +1,20 @@
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\bin\Debug\DataGridTest.exe.config
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\bin\Debug\DataGridTest.exe
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\bin\Debug\DataGridTest.pdb
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\obj\Debug\DataGridTest.csprojAssemblyReference.cache
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\obj\Debug\DataGridTest.Form1.resources
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\obj\Debug\DataGridTest.Properties.Resources.resources
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\obj\Debug\DataGridTest.csproj.GenerateResource.cache
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\obj\Debug\DataGridTest.csproj.CoreCompileInputs.cache
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\obj\Debug\DataGridTest.exe
+F:\Project\SirVladislav\DataGrid\DataGridTest\DataGridTest\obj\Debug\DataGridTest.pdb
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\bin\Debug\DataGridTest.exe.config
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\bin\Debug\DataGridTest.exe
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\bin\Debug\DataGridTest.pdb
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\obj\Debug\DataGridTest.csprojAssemblyReference.cache
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\obj\Debug\DataGridTest.Form1.resources
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\obj\Debug\DataGridTest.Properties.Resources.resources
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\obj\Debug\DataGridTest.csproj.GenerateResource.cache
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\obj\Debug\DataGridTest.csproj.CoreCompileInputs.cache
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\obj\Debug\DataGridTest.exe
+C:\Users\sirvl\Desktop\DataGridTest (пошук мин макс)\DataGridTest\DataGridTest\obj\Debug\DataGridTest.pdb

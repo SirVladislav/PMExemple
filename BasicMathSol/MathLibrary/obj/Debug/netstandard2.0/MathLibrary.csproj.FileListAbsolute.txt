@@ -1,0 +1,9 @@
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csprojAssemblyReference.cache
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+F:\Project\SirVladislav\HomeWork\ISMCSharp\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb
